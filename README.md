@@ -16,6 +16,7 @@ Module was built by following the tutorial - https://docs.angularjs.org/tutorial
 
 ## Setup ##
 
-Instructions from following sites were followed -
+Instructions from following sites were followed
+
 * https://docs.angularjs.org/tutorial
 * https://github.com/angular/angular-seed.git
