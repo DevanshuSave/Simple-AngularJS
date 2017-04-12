@@ -8,13 +8,13 @@ The folders view1 and view2 are uploaded as is from https://github.com/angular/a
 
 Module was built by following the tutorial - https://docs.angularjs.org/tutorial
 
-References for Issues -
+##References for Issues ##
 
 * http://stackoverflow.com/questions/21440295/uncaught-referenceerror-angular-is-not-defined-angularjs-not-working
 * http://stackoverflow.com/questions/18044519/what-is-the-cause-for-angular-is-not-defined
 * https://docs.angularjs.org/api/ngRoute/service/$route#example
 
-### How do I get set up? ###
+## Setup ##
 
 Instructions from following sites were followed -
 * https://docs.angularjs.org/tutorial
