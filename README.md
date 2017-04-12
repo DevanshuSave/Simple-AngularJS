@@ -1,12 +1,8 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains code of Module 7 for CSE 330 course offered by Washington University in Saint Louis
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Path - http://ec2-54-213-130-33.us-west-2.compute.amazonaws.com:8000
 
 ### How do I get set up? ###
 
